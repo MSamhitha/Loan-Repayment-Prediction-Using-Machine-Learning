@@ -17,7 +17,9 @@ This project aims to leverage machine learning techniques to predict the probabi
 ## Data Description
 
 The dataset used in this project was obtained from [Lending Club](https://www.lendingclub.com/personal-savings/founder-savings) and comprises the following attributes:
+[loan data.csv](https://drive.google.com/file/d/1vd2PcLAAhfQc4m-ZU4P2BCtg4GuEQJHz/view?usp=sharing)
 
+ 
 1. **credit.policy:** A binary variable indicating whether the customer meets LendingClub.com's credit underwriting criteria (1 for meeting the criteria, 0 otherwise).
 
 2. **purpose:** The purpose of the loan, taking values such as "credit_card," "debt_consolidation," "educational," "major_purchase," "small_business," and "all_other."
